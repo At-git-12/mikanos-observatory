@@ -1,0 +1,4 @@
+kernel/*.o
+kernel/kernel.elf
+disk.img
+mnt/
